@@ -1,4 +1,5 @@
-!(https://www.pxfuel.com/en/desktop-wallpaper-tgssy.jpg)
+<img scr="https://github.com/DevStephanie/DevStephanie/blob/main/pinkmatrix.gif" width = "300"/> 
+
 <H1 align ="center"> DevStephanie </H1>
 
 **` Forever learning and growing`** 
