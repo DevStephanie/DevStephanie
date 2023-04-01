@@ -4,9 +4,7 @@
 
 My name is Stephanie and I'm a junior developer. With a strong imagination and vivacious appetite for learning and coding, I invite you to check out my portfolio of projects. All coding projects were built from scratch, planning and designing all the way to attempting to solve real world problems via code and mobile development. With artistic touches, I hope to inspire more junior developers. 
 
-![4Y8h](https://user-images.githubusercontent.com/129541811/229310977-cb67c931-0fe6-4bde-9b06-356aedfc4c55.gif) 
-
-
+![pinkmatrix](https://user-images.githubusercontent.com/129541811/229311500-87bf676a-d413-4b20-80f0-ce9343139f0e.gif)
 
 ---
 <p align="left">
