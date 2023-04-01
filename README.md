@@ -1,5 +1,4 @@
-(![github](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/33957526428631439221695899941887295037869826450878591455714942999367004454913.gif))
-
+!(https://www.pxfuel.com/en/desktop-wallpaper-tgssy.jpg)
 <H1 align ="center"> DevStephanie </H1>
 
 **` Forever learning and growing`** 
