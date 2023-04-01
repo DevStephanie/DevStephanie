@@ -1,10 +1,10 @@
+[![MasterHead]("https://giphy.com/gifs/code-matrix-security-4knozU8q9AXvpod9qy")]
+
 <H1 align ="center"> DevStephanie </H1>
 
 **` Forever learning and growing`** 
 
 My name is Stephanie and I'm a junior developer. With a strong imagination and vivacious appetite for learning and coding, I invite you to check out my portfolio of projects. All coding projects were built from scratch, planning and designing all the way to attempting to solve real world problems via code and mobile development. With artistic touches, I hope to inspire more junior developers. 
-
-![pinkmatrix](https://user-images.githubusercontent.com/129541811/229311500-87bf676a-d413-4b20-80f0-ce9343139f0e.gif)
 
 ---
 <p align="left">
