@@ -2,7 +2,7 @@ DevStephanie
 
 **` Forever a Student! `**. 
 
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/623678248372186175/?amp_client_id=CLIENT_ID%28_%29&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&amp_url=https%3A%2F%2Fwww.pinterest.com%2Famp%2Fpin%2F623678248372186175%2F&open_share=t">
+<img align="right" alt="Coding" width="200" src=" https://user-images.githubusercontent.com/129541811/229310466-fd33c46d-30f6-4f81-ac34-3a119394b1d3.gif">
 
 My name is Stephanie and I'm a junior developer. With a strong imagination and vivacious appetite for learning and coding, I invite you to check out my portfolio of projects. All coding projects were built from scratch, planning and designing all the way to attempting to solve real world problems via code and mobile development. With artistic touches, I hope to inspire more junior developers. 
 
