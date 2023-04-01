@@ -1,4 +1,4 @@
-[![MasterHead]("https://giphy.com/gifs/code-matrix-security-4knozU8q9AXvpod9qy")]
+[![MasterHead](https://giphy.com/gifs/code-matrix-security-4knozU8q9AXvpod9qy)]()
 
 <H1 align ="center"> DevStephanie </H1>
 
