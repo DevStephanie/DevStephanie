@@ -1,4 +1,4 @@
-![](pinkmatrix.gif)
+![](https://github.com/DevStephanie/DevStephanie/blob/main/Pink%20Grey%20Simple%20Watercolor%20Personal%20LinkedIn%20Banner.gif)
 
 ###
 
