@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.linkedin.com/in/stephanie-a-aa5751109/)
+(![github](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/33957526428631439221695899941887295037869826450878591455714942999367004454913.gif))
 
 <H1 align ="center"> DevStephanie </H1>
 
