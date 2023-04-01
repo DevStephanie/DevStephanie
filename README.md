@@ -1,10 +1,12 @@
-[![MasterHead](https://giphy.com/gifs/code-matrix-security-4knozU8q9AXvpod9qy)]()
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.linkedin.com/in/stephanie-a-aa5751109/)
 
 <H1 align ="center"> DevStephanie </H1>
 
 **` Forever learning and growing`** 
 
 My name is Stephanie and I'm a junior developer. With a strong imagination and vivacious appetite for learning and coding, I invite you to check out my portfolio of projects. All coding projects were built from scratch, planning and designing all the way to attempting to solve real world problems via code and mobile development. With artistic touches, I hope to inspire more junior developers. 
+
+<a href="https://linkedin.com/in/stephanie abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie abdullah" height="30" width="40" /></a>
 
 ---
 <p align="left">
