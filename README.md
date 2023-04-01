@@ -1,13 +1,14 @@
-DevStephanie 
+<H1 align ="center"> DevStephanie </H1>
 
-**` Forever a Student! `**. 
-
-<img align="right" alt="Coding" width="200" src=" https://user-images.githubusercontent.com/129541811/229310466-fd33c46d-30f6-4f81-ac34-3a119394b1d3.gif">
+**` Forever learning and growing`** 
 
 My name is Stephanie and I'm a junior developer. With a strong imagination and vivacious appetite for learning and coding, I invite you to check out my portfolio of projects. All coding projects were built from scratch, planning and designing all the way to attempting to solve real world problems via code and mobile development. With artistic touches, I hope to inspire more junior developers. 
 
+![4Y8h](https://user-images.githubusercontent.com/129541811/229310977-cb67c931-0fe6-4bde-9b06-356aedfc4c55.gif) 
+
+
+
 ---
-<h3 align="center">Baby dev from Chicago</h3>
 <p align="left">
 </p>
 
