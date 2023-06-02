@@ -1,4 +1,4 @@
-![](https://github.com/DevStephanie/DevStephanie/blob/main/Pink%20Grey%20Simple%20Watercolor%20Personal%20LinkedIn%20Banner%20(1).jpg)
+![alt text](http:https://www.google.com/url?sa=i&url=https%3A%2F%2Fgridfiti.com%2Faesthetic-desk-ideas%2F&psig=AOvVaw2Oo53Qrg7NokYAs1hUn9ex&ust=1685754870898000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNif_7O0o_8CFQAAAAAdAAAAABAG.png)
 
 ###
 
