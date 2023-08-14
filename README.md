@@ -1,7 +1,7 @@
 
-![Brown Minimalist Hair Dresser Linked In Banner](https://github.com/DevStephanie/DevStephanie/assets/129541811/2c95c5a6-f254-47a1-8509-3033b6e703a6)
 
-###
+###![Brown Minimalist Hair Dresser Linked In Banner (2)](https://github.com/DevStephanie/DevStephanie/assets/129541811/0271e9c9-997b-4653-a872-cab2e7529ddd)
+
 
 <H1 align ="center"> DevStephanie </H1>
 
