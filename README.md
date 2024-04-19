@@ -1,5 +1,5 @@
 
-![LIB1](https://github.com/DevStephanie/DevStephanie/assets/129541811/2dc7c42d-1c9a-4a94-837e-d806994f31ca)
+![LIB1]()
 
 <H1 align ="center"> DevStephanie </H1>
 
