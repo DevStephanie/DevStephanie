@@ -9,7 +9,7 @@
 <!-- Projects-->
  # Projects: 
  📖 DigtlButtr: Digital magazine community space for 3D graphics, VR and digital artists.
- - 📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah)
+ 📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah)
 
  
 <!-- Current Tech stack -->
