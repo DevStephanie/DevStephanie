@@ -1,4 +1,5 @@
- ![]() ![PinkLinkedIn (2)](https://github.com/DevStephanie/DevStephanie/assets/129541811/07de2b51-9116-4055-9aeb-45a2a62531f4)
+ ![]() ![PinkLinkedIn (3)](https://github.com/DevStephanie/DevStephanie/assets/129541811/9616acae-1b99-4492-ba42-b56a41f2d2ec)
+
 
 # 🌸💻 Hi, I'm Stephanie. 🌸💻
 
