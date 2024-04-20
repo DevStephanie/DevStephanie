@@ -20,4 +20,4 @@ A little bit about me:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DevStephanie&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
