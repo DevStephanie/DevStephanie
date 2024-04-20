@@ -1,11 +1,16 @@
  ![]() ![PinkLinkedIn (2)](https://github.com/DevStephanie/DevStephanie/assets/129541811/07de2b51-9116-4055-9aeb-45a2a62531f4)
 
-# **Hi, I'm Stephanie** 🌸
+# ** 🌸💻 Hi, I'm Stephanie** 🌸💻
+
 <!-- Intro -->
 A little bit about me: 
- 👩🏽‍🎓 Graduate of University of Illinois  at Urbana Champaign Class of 2018.<br/>
- 👩🏽‍💻 Software Engineering Apprenticeship **Google** September 2022 - May 2024.<br/>
- 📚 Currently interested in 3D graphics, Linear Algebra, Machine Learning and Game Design.<br/>
+ 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign Class of 2018 <br/>
+ 👩🏽‍💻 Software Engineering Apprenticeship **Google** September 2022 - May 2024 <br/>
+ 📚 Currently interested in 3D graphics, Linear Algebra, Machine Learning and Game Design <br/>
+
+<!-- Projects-->
+ # Projects: 
+ 📖 DigtlButtr: Digital magazine community space for 3D graphics, VR and digital artists.
  
 <!-- Current Tech stack -->
  ## 💻 Current Tech stack: 
