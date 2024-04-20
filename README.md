@@ -1,6 +1,12 @@
  ![]() ![PinkLinkedIn (2)](https://github.com/DevStephanie/DevStephanie/assets/129541811/07de2b51-9116-4055-9aeb-45a2a62531f4)
 
-# ** 🌸💻 Hi, I'm Stephanie** 🌸💻
+# 🌸💻 Hi, I'm Stephanie 🌸💻
+
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
+🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
+💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <!-- Intro -->
 A little bit about me: 
