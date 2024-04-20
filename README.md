@@ -7,7 +7,7 @@
 💭 Currently interested in 3D graphics, Linear Algebra, Machine Learning and Game Design <br/>
 
 <!-- Projects-->
- # Projects: 
+ # 🛠️ Projects: 
  📖 DigtlButtr: Digital magazine community space for 3D graphics, VR and digital artists. <br/>
  📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah) <br/>
 
