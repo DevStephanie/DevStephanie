@@ -1,10 +1,14 @@
  ![]() ![PinkLinkedIn (2)](https://github.com/DevStephanie/DevStephanie/assets/129541811/07de2b51-9116-4055-9aeb-45a2a62531f4)
 
-<title> 🌸💻 Hi, I'm Stephanie 🌸💻 </title> 
+# 🌸💻 Hi, I'm Stephanie. 🌸💻
 
 👩🏽‍💻 Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign, Class of 2018 <br/>
 💭 Currently interested in 3D graphics, Linear Algebra, Machine Learning and Game Design <br/>
+
+<p> 
+Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction.
+</p>
 
 <!-- Projects-->
  ## 🛠️ Projects: 
