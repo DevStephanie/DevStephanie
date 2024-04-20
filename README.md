@@ -8,8 +8,8 @@
 
 <!-- Projects-->
  # Projects: 
- 📖 DigtlButtr: Digital magazine community space for 3D graphics, VR and digital artists.
- 📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah)
+ 📖 DigtlButtr: Digital magazine community space for 3D graphics, VR and digital artists. <br/>
+ 📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah) <br/>
 
  
 <!-- Current Tech stack -->
@@ -31,9 +31,7 @@
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+
 
 <!-- Online Education -->
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
