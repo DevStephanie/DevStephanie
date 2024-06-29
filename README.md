@@ -8,7 +8,7 @@
 💭 Currently interested in 3D graphics, Linear Algebra, Machine Learning and Game Design <br/>
 
 <p> 
-Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction.
+Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction / Computer Science Spring 2025.
 </p>
 
 <!-- Projects-->
