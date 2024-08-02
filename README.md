@@ -5,7 +5,7 @@
 
 👩🏽‍💻 Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign, Class of 2018 <br/>
-💭 Currently interested in 3D graphics, Linear Algebra, Machine Learning and Game Design <br/>
+💭 Currently interested in Mobile Development, Linear Algebra and Machine Learning <br/>
 
 <p> 
 Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction / Computer Science Spring 2025.
