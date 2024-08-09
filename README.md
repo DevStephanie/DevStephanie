@@ -13,7 +13,8 @@ Chicago software engineer, looking forward to pursuing a MS in Human Computer In
 
 <!-- Projects-->
  ## 🛠️ Projects: 
- 📖 DigtlButtr: Digital magazine community space for 3D graphics, VR and digital artists. <br/>
+ 📖 Lavendher: 2D Game based app focused on reproductive education. <br/>
+ 🎮 Relevance: Social app inspiring smaller gaming content creators to build communities. <br/>
  📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah) <br/>
 
  
