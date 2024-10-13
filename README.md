@@ -3,33 +3,30 @@
 
 # 🌸💻 Hi, I'm Stephanie. 🌸💻
 
-👩🏽‍💻 Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
+👩🏽‍💻 I completed a Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign, Class of 2018 <br/>
-💭 Currently interested in Mobile Development, Linear Algebra and Machine Learning <br/>
+💭 Currently interested in Mobile Development, Game Design, and VR & AR Technologies <br/>
 
 <p> 
-Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction / Computer Science Spring 2025.
+Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction / Computer Science Fall 2025.
 </p>
 
 <!-- Projects-->
- ## 🛠️ Projects: 
- 📖 Lavendher: 2D Game based app focused on reproductive education. <br/>
- 🎮 Relevance: Social app inspiring smaller gaming content creators to build communities. <br/>
- 📝 I regularly write articles on [https://medium.com/@stephabdullah](https://medium.com/@stephabdullah) <br/>
-
+## Projects: Coming Soon ... 
  
 <!-- Current Tech stack-->
  ## 💻 Current Tech stack: 
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
 
 <!-- Favorite Softwares-->
  ## 🖥️ Favorite Softwares: 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -37,7 +34,6 @@ Chicago software engineer, looking forward to pursuing a MS in Human Computer In
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 
 
 <!-- Favorite Softwares-->
@@ -57,3 +53,5 @@ Chicago software engineer, looking forward to pursuing a MS in Human Computer In
  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=DevStephanie&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
