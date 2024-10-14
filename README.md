@@ -9,6 +9,8 @@
 
 <p> 
 Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction / Computer Science Fall 2025.
+Looking forward to sharing my current passion projects in my featured portfolio.
+
 </p>
 
 <!-- Projects-->
@@ -23,7 +25,6 @@ Chicago software engineer, looking forward to pursuing a MS in Human Computer In
  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 
-
 <!-- Favorite Softwares-->
  ## 🖥️ Favorite Softwares: 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
@@ -34,7 +35,6 @@ Chicago software engineer, looking forward to pursuing a MS in Human Computer In
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-
 
 <!-- Favorite Softwares-->
 ## 📚 Online Education:
@@ -49,9 +49,8 @@ Chicago software engineer, looking forward to pursuing a MS in Human Computer In
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <br/> - Serene.city (username)
 
+<h3 align="left"> Game Engine and Tools:</h3>
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
  <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=DevStephanie&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
