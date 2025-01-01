@@ -1,4 +1,5 @@
- ![]() ![PinkLinkedIn (3)](https://github.com/DevStephanie/DevStephanie/assets/129541811/9616acae-1b99-4492-ba42-b56a41f2d2ec)
+ ![]() ![[happy days (1)](https://github.com/user-attachments/assets/f0564e20-dbf2-4f58-aa93-91ee5d26f5b0)
+](https://github.com/DevStephanie/DevStephanie/assets/129541811/9616acae-1b99-4492-ba42-b56a41f2d2ec)
 
 
 # 🌸💻 Hi, I'm Stephanie. 🌸💻
