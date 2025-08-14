@@ -6,11 +6,14 @@
 
 👩🏽‍💻 I completed a Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign, Class of 2018 <br/>
-💭 Currently interested in Mobile Development, Game Design, and VR & AR Technologies <br/>
+👩🏽‍💻 Currently a Computer Science and Software Development student, Class of 2026. 
+💭 I'm interested in Mobile Development, Game Design, and VR & AR Technologies <br/>
 
 <p> 
-Chicago software engineer, looking forward to pursuing a MS in Human Computer Interaction / Computer Science Fall 2025.
-Looking forward to sharing my current passion projects in my featured portfolio.
+
+I'm a Chicago based software developer and self proclaimed graphic artist. I want to create high-impact and large-scale social justice mobile apps. I have contributed to internal and external features with customer-facing products with high traffic. 
+
+Outside of school and passion projects, I create entrepreneur and tech related social media content aiming at inspiring more young women to pursue technical careers and learn about computer science. 
 
 </p>
 
