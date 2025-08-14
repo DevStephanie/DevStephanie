@@ -1,5 +1,5 @@
- ![]() ![[happy days (1)](https://github.com/user-attachments/assets/f0564e20-dbf2-4f58-aa93-91ee5d26f5b0)
-](https://github.com/DevStephanie/DevStephanie/assets/129541811/9616acae-1b99-4492-ba42-b56a41f2d2ec)
+
+<img width="1584" height="396" alt="Beige Aesthetic Elegant Minimalist Name LinkedIn Banner " src="https://github.com/user-attachments/assets/c1b52496-ca0b-46cb-baa1-e317e94c1cd4" />
 
 
 # 🌸💻 Hi, I'm Stephanie. 🌸💻
