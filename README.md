@@ -6,8 +6,9 @@
 
 👩🏽‍💻 I completed a Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign, Class of 2018 <br/>
-👩🏽‍💻 Currently a Computer Science and Software Development student, Class of 2026. 
-💭 I'm interested in Mobile Development, Game Design, and VR & AR Technologies <br/>
+👩🏽‍💻 Currently a Computer Science and Software Development student, Class of 2026. <br/>
+
+<br> 💭 I'm interested in Mobile Development, Game Design, and VR & AR Technologies <br/>
 
 <p> 
 
