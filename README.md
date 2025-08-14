@@ -2,7 +2,7 @@
 <img width="1584" height="396" alt="Beige Aesthetic Elegant Minimalist Name LinkedIn Banner " src="https://github.com/user-attachments/assets/c1b52496-ca0b-46cb-baa1-e317e94c1cd4" />
 
 
-# 🌸💻 Hi, I'm Stephanie. 🌸💻
+# ✨ Hi, I'm <i> Stephanie ... </i> ✨
 
 👩🏽‍💻 I completed a Software Engineer Apprenticeship at **GOOGLE** September 2022 - May 2024 <br/>
 👩🏽‍🎓 Graduate of University of Illinois at Urbana Champaign, Class of 2018 <br/>
